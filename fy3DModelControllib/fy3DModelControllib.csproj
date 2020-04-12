@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C29CA78C-FF8A-45E3-B0B6-81C7DD833AA9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>fy3DModelControllib</RootNamespace>
+    <AssemblyName>fy3DModelControllib</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Kitware.mummy.Runtime">
+      <HintPath>..\..\..\常用的开源类库二进制文件\ActiViz.NET\Kitware.mummy.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Kitware.VTK">
+      <HintPath>..\..\..\常用的开源类库二进制文件\ActiViz.NET\Kitware.VTK.dll</HintPath>
+    </Reference>
+    <Reference Include="soy.Algorithms, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\soy.Algorithms.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="fy3DModelCanvas.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="fy3DModelCanvas.Designer.cs">
+      <DependentUpon>fy3DModelCanvas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fy3DModelManager.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="fy3DModelManager.Designer.cs">
+      <DependentUpon>fy3DModelManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fy3DModelPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="fy3DModelPage.Designer.cs">
+      <DependentUpon>fy3DModelPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fy3DModelPageMode.cs" />
+    <Compile Include="fy3DModelViewMode.cs" />
+    <Compile Include="fyTransparentRange.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="fy3DModelCanvas.resx">
+      <DependentUpon>fy3DModelCanvas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fy3DModelManager.resx">
+      <DependentUpon>fy3DModelManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fy3DModelPage.resx">
+      <DependentUpon>fy3DModelPage.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

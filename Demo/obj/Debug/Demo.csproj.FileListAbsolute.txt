@@ -1,0 +1,141 @@
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\Demo.exe.config
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\Demo.exe
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\Demo.pdb
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\obj\Debug\Demo.Properties.Resources.resources
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\obj\Debug\Demo.csproj.GenerateResource.Cache
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\obj\Debug\Demo.exe
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\obj\Debug\Demo.pdb
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\fy3DModelControllib.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\fySpatialUtilitylib.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\fySpatialUtilitylib.pdb
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\fy3DModelControllib.pdb
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\obj\Debug\Demo.Form1.resources
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\Kitware.VTK.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\Kitware.mummy.Runtime.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\Kitware.VTK.xml
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\Kitware.VTK.vtkCharts.Unmanaged.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\Kitware.VTK.vtkCommon.Unmanaged.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\Kitware.VTK.vtkFiltering.Unmanaged.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\Kitware.VTK.vtkGenericFiltering.Unmanaged.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\Kitware.VTK.vtkGeovis.Unmanaged.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\Kitware.VTK.vtkGraphics.Unmanaged.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\Kitware.VTK.vtkHybrid.Unmanaged.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\Kitware.VTK.vtkIO.Unmanaged.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\Kitware.VTK.vtkImaging.Unmanaged.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\Kitware.VTK.vtkInfovis.Unmanaged.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\Kitware.VTK.vtkParallel.Unmanaged.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\Kitware.VTK.vtkRendering.Unmanaged.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\Kitware.VTK.vtkViews.Unmanaged.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\Kitware.VTK.vtkVolumeRendering.Unmanaged.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\Kitware.VTK.vtkWidgets.Unmanaged.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\vtkCharts.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\vtkCommon.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\vtkFiltering.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\vtkGenericFiltering.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\vtkGeovis.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\vtkGraphics.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\vtkHybrid.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\vtkIO.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\vtkImaging.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\vtkInfovis.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\vtkParallel.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\vtkRendering.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\vtkViews.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\vtkVolumeRendering.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\vtkWidgets.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\Cosmo.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\VPIC.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\vtkalglib.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\vtkDICOMParser.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\vtkexoIIc.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\vtkftgl.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\vtkmetaio.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\vtkNetCDF.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\vtkNetCDF_cxx.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\vtksys.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\vtkverdict.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\vtkexpat.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\vtkfreetype.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\vtkjpeg.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\vtklibxml2.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\vtkpng.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\vtkproj4.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\vtktiff.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\vtkzlib.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\Microsoft.VC90.CRT.manifest
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\msvcm90.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\msvcp90.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\msvcr90.dll
+G:\【Program 1】My Programs Library\fy3DModelControllib\Demo\bin\Debug\Kitware.mummy.Runtime.Unmanaged.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\Demo.exe.config
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\Demo.exe
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\Demo.pdb
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\fy3DModelControllib.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\soy.Algorithms.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\Kitware.VTK.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\soy.Data.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\Kitware.mummy.Runtime.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\fy3DModelControllib.pdb
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\Kitware.VTK.xml
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\Kitware.VTK.vtkCharts.Unmanaged.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\Kitware.VTK.vtkCommon.Unmanaged.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\Kitware.VTK.vtkFiltering.Unmanaged.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\Kitware.VTK.vtkGenericFiltering.Unmanaged.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\Kitware.VTK.vtkGeovis.Unmanaged.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\Kitware.VTK.vtkGraphics.Unmanaged.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\Kitware.VTK.vtkHybrid.Unmanaged.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\Kitware.VTK.vtkIO.Unmanaged.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\Kitware.VTK.vtkImaging.Unmanaged.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\Kitware.VTK.vtkInfovis.Unmanaged.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\Kitware.VTK.vtkParallel.Unmanaged.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\Kitware.VTK.vtkRendering.Unmanaged.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\Kitware.VTK.vtkViews.Unmanaged.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\Kitware.VTK.vtkVolumeRendering.Unmanaged.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\Kitware.VTK.vtkWidgets.Unmanaged.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\vtkCharts.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\vtkCommon.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\vtkFiltering.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\vtkGenericFiltering.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\vtkGeovis.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\vtkGraphics.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\vtkHybrid.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\vtkIO.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\vtkImaging.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\vtkInfovis.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\vtkParallel.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\vtkRendering.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\vtkViews.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\vtkVolumeRendering.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\vtkWidgets.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\Cosmo.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\VPIC.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\vtkalglib.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\vtkDICOMParser.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\vtkexoIIc.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\vtkftgl.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\vtkmetaio.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\vtkNetCDF.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\vtkNetCDF_cxx.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\vtksys.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\vtkverdict.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\vtkexpat.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\vtkfreetype.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\vtkjpeg.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\vtklibxml2.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\vtkpng.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\vtkproj4.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\vtktiff.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\vtkzlib.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\Microsoft.VC90.CRT.manifest
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\msvcm90.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\msvcp90.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\msvcr90.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\bin\Debug\Kitware.mummy.Runtime.Unmanaged.dll
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\obj\Debug\Demo.Form1.resources
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\obj\Debug\Demo.Properties.Resources.resources
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\obj\Debug\Demo.csproj.CopyComplete
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\obj\Debug\Demo.exe
+D:\verysync drive\创造未来\My Programs Library 早期\fy3DModelControllib\Demo\obj\Debug\Demo.pdb

@@ -1,0 +1,139 @@
+ERROR: In ..\..\..\..\vtksource-prefix\src\vtksource\Rendering\vtkWin32OpenGLRenderWindow.cxx, line 247
+vtkWin32OpenGLRenderWindow (0EC38C30): wglMakeCurrent failed in MakeCurrent(), error: 操作成功完成。
+
+
+
+ERROR: In ..\..\..\..\vtksource-prefix\src\vtksource\Rendering\vtkWin32OpenGLRenderWindow.cxx, line 247
+vtkWin32OpenGLRenderWindow (0EC38C30): wglMakeCurrent failed in MakeCurrent(), error: 句柄无效。
+
+
+
+ERROR: In ..\..\..\..\vtksource-prefix\src\vtksource\Rendering\vtkWin32OpenGLRenderWindow.cxx, line 247
+vtkWin32OpenGLRenderWindow (0EC38C30): wglMakeCurrent failed in MakeCurrent(), error: 句柄无效。
+
+
+
+ERROR: In ..\..\..\..\vtksource-prefix\src\vtksource\Rendering\vtkWin32OpenGLRenderWindow.cxx, line 247
+vtkWin32OpenGLRenderWindow (0EC38C30): wglMakeCurrent failed in MakeCurrent(), error: 句柄无效。
+
+
+
+ERROR: In ..\..\..\..\vtksource-prefix\src\vtksource\Rendering\vtkWin32OpenGLRenderWindow.cxx, line 247
+vtkWin32OpenGLRenderWindow (0EC38C30): wglMakeCurrent failed in MakeCurrent(), error: 句柄无效。
+
+
+
+ERROR: In ..\..\..\..\vtksource-prefix\src\vtksource\Rendering\vtkWin32OpenGLRenderWindow.cxx, line 247
+vtkWin32OpenGLRenderWindow (0EC38C30): wglMakeCurrent failed in MakeCurrent(), error: 句柄无效。
+
+
+
+ERROR: In ..\..\..\..\vtksource-prefix\src\vtksource\Rendering\vtkWin32OpenGLRenderWindow.cxx, line 247
+vtkWin32OpenGLRenderWindow (0EC38C30): wglMakeCurrent failed in MakeCurrent(), error: 句柄无效。
+
+
+
+ERROR: In ..\..\..\..\vtksource-prefix\src\vtksource\Rendering\vtkWin32OpenGLRenderWindow.cxx, line 247
+vtkWin32OpenGLRenderWindow (0EC38C30): wglMakeCurrent failed in MakeCurrent(), error: 句柄无效。
+
+
+
+ERROR: In ..\..\..\..\vtksource-prefix\src\vtksource\Rendering\vtkWin32OpenGLRenderWindow.cxx, line 247
+vtkWin32OpenGLRenderWindow (0EC38C30): wglMakeCurrent failed in MakeCurrent(), error: 句柄无效。
+
+
+
+ERROR: In ..\..\..\..\vtksource-prefix\src\vtksource\Rendering\vtkWin32OpenGLRenderWindow.cxx, line 247
+vtkWin32OpenGLRenderWindow (0EC38C30): wglMakeCurrent failed in MakeCurrent(), error: 句柄无效。
+
+
+
+ERROR: In ..\..\..\..\vtksource-prefix\src\vtksource\Rendering\vtkWin32OpenGLRenderWindow.cxx, line 247
+vtkWin32OpenGLRenderWindow (0EC38C30): wglMakeCurrent failed in MakeCurrent(), error: 句柄无效。
+
+
+
+ERROR: In ..\..\..\..\vtksource-prefix\src\vtksource\Rendering\vtkWin32OpenGLRenderWindow.cxx, line 247
+vtkWin32OpenGLRenderWindow (0EC38C30): wglMakeCurrent failed in MakeCurrent(), error: 句柄无效。
+
+
+
+ERROR: In ..\..\..\..\vtksource-prefix\src\vtksource\Rendering\vtkWin32OpenGLRenderWindow.cxx, line 247
+vtkWin32OpenGLRenderWindow (0EC38C30): wglMakeCurrent failed in MakeCurrent(), error: 句柄无效。
+
+
+
+ERROR: In ..\..\..\..\vtksource-prefix\src\vtksource\Rendering\vtkWin32OpenGLRenderWindow.cxx, line 247
+vtkWin32OpenGLRenderWindow (0EC38C30): wglMakeCurrent failed in MakeCurrent(), error: 句柄无效。
+
+
+
+ERROR: In ..\..\..\..\vtksource-prefix\src\vtksource\Rendering\vtkWin32OpenGLRenderWindow.cxx, line 247
+vtkWin32OpenGLRenderWindow (0EC38C30): wglMakeCurrent failed in MakeCurrent(), error: 句柄无效。
+
+
+
+ERROR: In ..\..\..\..\vtksource-prefix\src\vtksource\Rendering\vtkWin32OpenGLRenderWindow.cxx, line 247
+vtkWin32OpenGLRenderWindow (0EC38C30): wglMakeCurrent failed in MakeCurrent(), error: 句柄无效。
+
+
+
+ERROR: In ..\..\..\..\vtksource-prefix\src\vtksource\Rendering\vtkWin32OpenGLRenderWindow.cxx, line 247
+vtkWin32OpenGLRenderWindow (0EC38C30): wglMakeCurrent failed in MakeCurrent(), error: 句柄无效。
+
+
+
+ERROR: In ..\..\..\..\vtksource-prefix\src\vtksource\Rendering\vtkWin32OpenGLRenderWindow.cxx, line 247
+vtkWin32OpenGLRenderWindow (0EC38C30): wglMakeCurrent failed in MakeCurrent(), error: 句柄无效。
+
+
+
+ERROR: In ..\..\..\..\vtksource-prefix\src\vtksource\Rendering\vtkWin32OpenGLRenderWindow.cxx, line 247
+vtkWin32OpenGLRenderWindow (0EC38C30): wglMakeCurrent failed in MakeCurrent(), error: 句柄无效。
+
+
+
+ERROR: In ..\..\..\..\vtksource-prefix\src\vtksource\Rendering\vtkWin32OpenGLRenderWindow.cxx, line 247
+vtkWin32OpenGLRenderWindow (0EC38C30): wglMakeCurrent failed in MakeCurrent(), error: 句柄无效。
+
+
+
+ERROR: In ..\..\..\..\vtksource-prefix\src\vtksource\Rendering\vtkWin32OpenGLRenderWindow.cxx, line 247
+vtkWin32OpenGLRenderWindow (0EC38C30): wglMakeCurrent failed in MakeCurrent(), error: 句柄无效。
+
+
+
+ERROR: In ..\..\..\..\vtksource-prefix\src\vtksource\Rendering\vtkWin32OpenGLRenderWindow.cxx, line 247
+vtkWin32OpenGLRenderWindow (0EC38C30): wglMakeCurrent failed in MakeCurrent(), error: 句柄无效。
+
+
+
+ERROR: In ..\..\..\..\vtksource-prefix\src\vtksource\Rendering\vtkWin32OpenGLRenderWindow.cxx, line 247
+vtkWin32OpenGLRenderWindow (0EC38C30): wglMakeCurrent failed in MakeCurrent(), error: 句柄无效。
+
+
+
+ERROR: In ..\..\..\..\vtksource-prefix\src\vtksource\Rendering\vtkWin32OpenGLRenderWindow.cxx, line 247
+vtkWin32OpenGLRenderWindow (0EC38C30): wglMakeCurrent failed in MakeCurrent(), error: 句柄无效。
+
+
+
+ERROR: In ..\..\..\..\vtksource-prefix\src\vtksource\Rendering\vtkWin32OpenGLRenderWindow.cxx, line 247
+vtkWin32OpenGLRenderWindow (0EC38C30): wglMakeCurrent failed in MakeCurrent(), error: 句柄无效。
+
+
+
+ERROR: In ..\..\..\..\vtksource-prefix\src\vtksource\Rendering\vtkWin32OpenGLRenderWindow.cxx, line 247
+vtkWin32OpenGLRenderWindow (0EC38C30): wglMakeCurrent failed in MakeCurrent(), error: 句柄无效。
+
+
+
+ERROR: In ..\..\..\..\vtksource-prefix\src\vtksource\Rendering\vtkWin32OpenGLRenderWindow.cxx, line 247
+vtkWin32OpenGLRenderWindow (0EC38C30): wglMakeCurrent failed in MakeCurrent(), error: 句柄无效。
+
+
+
+ERROR: In ..\..\..\..\vtksource-prefix\src\vtksource\Rendering\vtkWin32OpenGLRenderWindow.cxx, line 116
+vtkWin32OpenGLRenderWindow (0EC38C30): wglMakeCurrent failed in Clean(), error: 6
+
+

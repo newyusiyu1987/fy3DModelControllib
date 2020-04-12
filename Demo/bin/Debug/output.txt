@@ -1,0 +1,36 @@
+ERROR: In ..\..\..\..\vtksource-prefix\src\vtksource\Graphics\vtkPlaneSource.cxx, line 102
+vtkPlaneSource (0EC83A38): Bad plane coordinate system
+
+
+ERROR: In ..\..\..\..\vtksource-prefix\src\vtksource\Filtering\vtkExecutive.cxx, line 756
+vtkStreamingDemandDrivenPipeline (199B0F10): Algorithm vtkPlaneSource(0EC83A38) returned failure for request: vtkInformation (199DA100)
+  Debug: Off
+  Modified Time: 17345
+  Reference Count: 1
+  Registered Events: (none)
+  Request: REQUEST_DATA
+  ALGORITHM_AFTER_FORWARD: 1
+  FORWARD_DIRECTION: 0
+  FROM_OUTPUT_PORT: 0
+
+
+
+
+ERROR: In ..\..\..\..\vtksource-prefix\src\vtksource\Graphics\vtkPlaneSource.cxx, line 102
+vtkPlaneSource (199DD698): Bad plane coordinate system
+
+
+ERROR: In ..\..\..\..\vtksource-prefix\src\vtksource\Filtering\vtkExecutive.cxx, line 756
+vtkStreamingDemandDrivenPipeline (199B0970): Algorithm vtkPlaneSource(199DD698) returned failure for request: vtkInformation (199DA150)
+  Debug: Off
+  Modified Time: 17442
+  Reference Count: 1
+  Registered Events: (none)
+  Request: REQUEST_DATA
+  ALGORITHM_AFTER_FORWARD: 1
+  FORWARD_DIRECTION: 0
+  FROM_OUTPUT_PORT: 0
+
+
+
+
